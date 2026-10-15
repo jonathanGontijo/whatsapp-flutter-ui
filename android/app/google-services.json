@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "278247457225",
+    "project_id": "video-call-app-b433f",
+    "storage_bucket": "video-call-app-b433f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278247457225:android:4131ecea99d2ffcafd6818",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278247457225-fqe0htcp1p2pmvj1akr4o5un9a211f2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_ui",
+            "certificate_hash": "25926f6347b831717384f88bbc5e82a567524986"
+          }
+        },
+        {
+          "client_id": "278247457225-gilk2mviqlsk9np48njsrbcehg9n30qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNCb_TlOH7jHNAyfA9izf7_vgk-gk8xX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278247457225-gilk2mviqlsk9np48njsrbcehg9n30qi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278247457225-50qgv61tqvb6vbu31vv8kd0tnrkhnhqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
